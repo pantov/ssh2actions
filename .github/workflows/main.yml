@@ -1,4 +1,4 @@
-- name: Start SSH via tmate
+name: Start SSH via tmate
   uses: P3TERX/ssh2actions@main
   # Send connection info to Telegram (optional)
   # You can find related documents here: https://core.telegram.org/bots
